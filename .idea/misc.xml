@@ -4,8 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/activity_findmovie.xml" value="0.1" />
-        <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/activity_findmovietheater.xml" value="0.25" />
+        <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/activity_findmovietheater.xml" value="0.1" />
         <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/activity_newfilm.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/activity_newtheatre.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/adapter.xml" value="0.16438703140830802" />
+        <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/adapter2.xml" value="0.16438703140830802" />
+        <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/adapter3.xml" value="0.12413925019127774" />
         <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/layout/item.xml" value="0.1" />
         <entry key="..\:/Users/Ineas/AndroidStudioProjects/Practika/app/src/main/res/menu/menu.xml" value="0.33" />
       </map>
